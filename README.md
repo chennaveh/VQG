@@ -5,15 +5,13 @@ Generating natural questions about images. This project task is to generate ques
 
 ![1st example](https://github.com/chennaveh/VQG/blob/master/result/baby.PNG)
 
-![2nd example](https://github.com/chennaveh/VQG/blob/master/result/car.PNG)
+![2nd example](https://github.com/chennaveh/VQG/blob/master/result/food.PNG)
 
-![3rd example](https://github.com/chennaveh/VQG/blob/master/result/food.PNG)
+![3rd example](https://github.com/chennaveh/VQG/blob/master/result/giraffe.PNG)
 
-![4th example](https://github.com/chennaveh/VQG/blob/master/result/giraffe.PNG)
+![4th example](https://github.com/chennaveh/VQG/blob/master/result/talk.PNG)
 
-![5th example](https://github.com/chennaveh/VQG/blob/master/result/talk.PNG)
-
-![6th example](https://github.com/chennaveh/VQG/blob/master/result/wedding.PNG)
+![5th example](https://github.com/chennaveh/VQG/blob/master/result/wedding.PNG)
 
 # Explanation of Jupyter Notebooks:
 ```Download datasets.ipynb```
