@@ -4,10 +4,15 @@ Generating natural questions about images. This project task is to generate ques
 # Results
 
 ![1st example](https://github.com/chennaveh/VQG/blob/master/result/baby.PNG)
+
 ![2nd example](https://github.com/chennaveh/VQG/blob/master/result/car.PNG)
+
 ![3rd example](https://github.com/chennaveh/VQG/blob/master/result/food.PNG)
+
 ![4th example](https://github.com/chennaveh/VQG/blob/master/result/giraffe.PNG)
+
 ![5th example](https://github.com/chennaveh/VQG/blob/master/result/talk.PNG)
+
 ![6th example](https://github.com/chennaveh/VQG/blob/master/result/wedding.PNG)
 
 # Explanation of Jupyter Notebooks:
